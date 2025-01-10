@@ -20,3 +20,9 @@
   - `pygame`
 
 ---
+
+## Credits
+
+Assets: Graphics and assets used in this game were sourced from MyEBStudios on itch.io.
+
+---
