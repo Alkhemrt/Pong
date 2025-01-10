@@ -18,6 +18,7 @@
 - Python 3.8 or later
 - Required Python libraries:
   - `pygame`
+- Or, you can just use the .exe file
 
 ---
 
